@@ -16,7 +16,7 @@
 💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🚀  
 
 ### 🚀 About Me  
-- 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce🛒 + M-PESA Checkout💳 **  
+- 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce + M-PESA Checkout** 
 - 🔥 Passionate code alchemist turning ideas into **software magic** ✨  
 - 💡 Forever curious, always learning, and building fun, mind-bending projects  
 - 🌱 Leveling up daily with **JavaScript • React • Python • PHP • MySQL • System Design** 🚀  
