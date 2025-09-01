@@ -20,9 +20,6 @@
 ### 🛠️ Languages & Tools
 
 #### 🌐 Programming & Scripting
-### 🛠️ Languages & Tools
-
-#### 🌐 Programming & Scripting
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -43,7 +40,6 @@
 #### 🎨 Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 </p>
 
 #### ⚙️ Tools & Platforms
@@ -52,7 +48,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 </p>
 
 ---
@@ -97,11 +92,20 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━-⚡-yellow?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-🔥-red?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-💫-purple?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-🌊-blue?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-🌍-green?style=flat" />
+  <img src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='250' height='30'>
+    <defs>
+      <linearGradient id='rasta' x1='0%' y1='0%' x2='100%' y2='0%'>
+        <stop offset='0%' style='stop-color:#ff0000;stop-opacity:1' />
+        <stop offset='50%' style='stop-color:#ffff00;stop-opacity:1' />
+        <stop offset='100%' style='stop-color:#00ff00;stop-opacity:1' />
+      </linearGradient>
+    </defs>
+    <rect width='250' height='30' rx='5' fill='url(#rasta)' />
+    <text x='125' y='20' font-family='Arial, sans-serif' font-size='14' fill='black' text-anchor='middle'>
+      ❤️💛💚 RASTA VIBES
+    </text>
+  </svg>" />
 </p>
 
 <p align="center">
