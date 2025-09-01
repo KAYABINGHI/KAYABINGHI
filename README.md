@@ -16,19 +16,23 @@
 💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🚀  
 
 ### 🚀 About Me  
-- 🚀 Passionate about software development, eCommerce systems, and React projects.  
-- 💡 Always learning and building fun projects.  
-- 🔭 I’ve worked on my university project **Ecommerce + M-PESA Checkout**  
-- 🌱 Leveling up with **JavaScript • React • Python • PHP • MySQL • System Design**  
-- 👯 I’m looking to collaborate on **open source projects**  
-- ⚡ Fun fact: *I debug like a DJ — mixing coffee, music, and a little bit of chaos 🎶☕💻*  
+- 🔥 Passionate code alchemist turning ideas into **software magic** ✨  
+- 💡 Forever curious, always learning, and building fun, mind-bending projects  
+- 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce + M-PESA Checkout** 🛒💳  
+- 🌱 Leveling up daily with **JavaScript • React • Python • PHP • MySQL • System Design** 🚀  
+- 👯 Always looking to team up and **collaborate on open source adventures** 🌍  
+- ⚡ Fun fact: *I debug like a DJ — mixing coffee ☕, music 🎧, and a sprinkle of controlled chaos* 🎶💻  
+- 🎯 Motto: *Ship code like a ninja, learn like a monk, and enjoy the ride!* 🥷🧘‍♂️✨
 
 ---
 
-### 🎯 My Dev Vibes  
-- 🚀 Turning caffeine ☕ into clean code  
-- 🎧 Debugging sessions = powered by music  
-- 🛠️ Always hacking on side-projects & learning something new  
+### 🎯 My Dev Vibes
+- 🚀 Turning caffeine ☕ into clean, battle-ready code  
+- 🎧 Debugging sessions = powered by epic playlists  
+- 🛠️ Always hacking on side-projects & leveling up skills  
+- ⚡ Deploying features like a digital superhero 🦸‍♂️  
+- 🧩 Solving bugs is my cardio — brain gains all day 🧠💪  
+- 🌌 Dreaming in algorithms and sipping coffee under the stars  
 
 ---
 
