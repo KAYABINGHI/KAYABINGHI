@@ -13,15 +13,15 @@
 
 ---
 
-💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🚀  
+💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🧑‍💻
 
-### 🚀 About Me  
-- 💻👨‍🎓 **Computer Science Grad** ✨ With a delta (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🚀
-- 💻📚 Took **Harvard CS50 (2023)** – Intro to Computer Science 🚀  
+### 🖱️ About Me 🖲️ 
+- 💻👨‍🎓 **Computer Science Grad** ✨ With a delta (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🏆
+-🎓 **Harvard CS50** *(Introduction to Computer Science, 2023)*  
 - 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce + M-PESA Checkout** 
 - 🔥 Passionate code alchemist turning ideas into **software magic** ✨  
 - 💡 Forever curious, always learning, and building fun, mind-bending projects  
-- 🌱 Leveling up daily with **JavaScript • React • Python • PHP • MySQL • System Design** 🚀  
+- 🌱 Leveling up daily with **JavaScript • React • Python • PHP • MySQL • System Design** 📈  
 - 👯 Always looking to team up and **collaborate on open source adventures** 🌍  
 - ⚡ Fun fact: *I debug like a DJ — mixing coffee ☕, music 🎧, and a sprinkle of controlled chaos* 🎶💻  
 - 🎯 Motto: *Ship code like a ninja, learn like a monk, and enjoy the ride!* 🥷🧘‍♂️✨
