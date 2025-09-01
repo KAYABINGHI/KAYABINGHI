@@ -7,8 +7,7 @@
 </p>
 
 ---
-💻 Full-stack dreamer, eCommerce tinkerer, and React enthusiast 🚀  
-I love crafting projects that blend **tech + creativity** to solve real problems.  
+💻 I love crafting projects that blend **tech + creativity** to solve real problems.   🚀  
 
 ### 🚀 About Me
 - 🚀 Passionate about software development, eCommerce systems, and React projects.  
