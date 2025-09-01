@@ -124,5 +124,5 @@
 
 <p align="center">
   ⭐️ From <a href="https://github.com/KAYABINGHI">KAYABINGHI</a> <br/>
-  <i>💻 Coding saves lives — just follow the line 🚀</i>
+  💻 <i> Coding saves lives — just follow the line 🚀</i>
 </p>
