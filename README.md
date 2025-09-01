@@ -7,14 +7,24 @@
 </p>
 
 ---
+💻 Full-stack dreamer, eCommerce tinkerer, and React enthusiast 🚀  
+I love crafting projects that blend **tech + creativity** to solve real problems.  
 
 ### 🚀 About Me
 - 🚀 Passionate about software development, eCommerce systems, and React projects.  
 - 💡 Always learning and building fun projects.  
-- 🔭 I’m currently working on **Ecommerce + M-PESA Checkout**  
-- 🌱 I’m learning **Javascript, React, Python, PHP, MySQL & System Design**  
+- 🔭 I’ve worked on my university project **Ecommerce + M-PESA Checkout**  
+- 🌱 Leveling up with **JavaScript • React • Python • PHP • MySQL • System Design** 
 - 👯 I’m looking to collaborate on **open source projects**  
-- ⚡ Fun fact: *I debug with ☕ coffee and 🎧 music*  
+- ⚡ Fun fact: *I debug with ☕ coffee and 🎧 music*
+
+### 🎯 My Dev Vibes  
+- 🚀 Turning caffeine ☕ into clean code  
+- 🎧 Debugging sessions = powered by music  
+- 🛠️ Always hacking on side-projects & learning something new  
+
+### ✨ Fun Fact  
+I debug like a DJ — mixing coffee, music, and a little bit of chaos 🎶☕💻  
 
 ---
 ### 🛠️ Languages & Tools
