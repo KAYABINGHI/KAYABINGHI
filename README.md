@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋, I'm Kayabinghi ✨</h1>
-<h3 align="center">💻 A passionate Software Developer from Kenya 🚀</h3>
+<h3 align="center">💻 A passionate Software Engineer/Developer from Kenya 🚀</h3>
 
 <!-- Typing animation -->
 <p align="center">
