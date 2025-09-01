@@ -16,7 +16,8 @@
 💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🚀  
 
 ### 🚀 About Me  
-- 💻👨‍🎓 **Computer Science Grad** ✨ With a delta (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🚀 
+- 💻👨‍🎓 **Computer Science Grad** ✨ With a delta (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🚀
+- 💻📚 Took **Harvard CS50 (2023)** – Intro to Computer Science 🚀  
 - 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce + M-PESA Checkout** 
 - 🔥 Passionate code alchemist turning ideas into **software magic** ✨  
 - 💡 Forever curious, always learning, and building fun, mind-bending projects  
