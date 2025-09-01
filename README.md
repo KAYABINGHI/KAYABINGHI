@@ -17,7 +17,7 @@
 
 ### 🖱️ About Me 🖲️ 
 - 💻👨‍🎓 **Computer Science Grad** ✨ With a delta (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🏆
--🎓 **Harvard CS50** *(Introduction to Computer Science, 2023)*  
+- 🎓 **Harvard CS50** *(Introduction to Computer Science, 2023)*  
 - 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce + M-PESA Checkout** 
 - 🔥 Passionate code alchemist turning ideas into **software magic** ✨  
 - 💡 Forever curious, always learning, and building fun, mind-bending projects  
