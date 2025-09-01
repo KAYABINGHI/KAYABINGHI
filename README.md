@@ -185,9 +185,11 @@
 ---
 
 <p align="center">
-  <img src="./rasta-badge.svg" alt="Rasta gradient badge" />
+  <img src="https://img.shields.io/badge/━━━━━-❤️-red?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-💛-gold?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-💚-green?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-🖤-black?style=flat" />
 </p>
-
 
 <p align="center">
   ⭐️ From <a href="https://github.com/KAYABINGHI">KAYABINGHI</a> <br/>
