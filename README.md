@@ -94,4 +94,18 @@
 
 ---
 
-⭐️ From [KAYABINGHI](https://github.com/KAYABINGHI)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━-⚡-yellow?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-🔥-red?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-💫-purple?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-🌊-blue?style=flat" />
+  <img src="https://img.shields.io/badge/━━━━━-🌍-green?style=flat" />
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/KAYABINGHI">KAYABINGHI</a> <br/>
+  <i>💻 Coding saves lives — just follow the line 🚀</i>
+</p>
+
