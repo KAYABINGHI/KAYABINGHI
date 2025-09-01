@@ -185,10 +185,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━-❤️-red?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-💛-gold?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-💚-green?style=flat" />
-  <img src="https://img.shields.io/badge/━━━━━-🖤-black?style=flat" />
+  <img src="https://img.shields.io/badge/-❤️-red?style=flat" />
+  <img src="https://img.shields.io/badge/-💛-gold?style=flat" />
+  <img src="https://img.shields.io/badge/-💚-green?style=flat" />
+  <img src="https://img.shields.io/badge/-🖤-black?style=flat" />
 </p>
 
 <p align="center">
