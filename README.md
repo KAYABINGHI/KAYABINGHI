@@ -1,4 +1,4 @@
-<h1 align="center">🎭 Alakazam ✨ Hi 👋, I'm Kayabinghi ✨ — expect tricks, plays, and maybe a little chaos</h1>
+<h1 align="center">🎭 Alakazam ✨ Hi 👋, I'm Kayabinghi ✨ — 🙉 🙊 🙈 </h1>
 <h3 align="center">💻 A passionate Software Engineer/Developer from Kenya 🚀</h3>
 
 <!-- Visitor Counter -->
