@@ -29,12 +29,12 @@
 ---
 
 ### 🎯 My Dev Vibes
-- 🚀 Turning caffeine and chai ☕ into clean, battle-ready code  
+- 🚀 Turning caffeine and chai tea ☕ into clean, battle-ready code  
 - 🎧 Debugging sessions = powered by epic playlists  
 - 🛠️ Always hacking on side-projects & leveling up skills  
 - ⚡ Deploying features like a digital superhero 🦸‍♂️  
 - 🧩 Solving bugs is my cardio — brain gains all day 🧠💪  
-- 🌌 Dreaming in algorithms and sipping chai under the stars  
+- 🌌 Dreaming in algorithms and sipping chai tea under the stars  
 
 ---
 
