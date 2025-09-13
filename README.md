@@ -16,25 +16,18 @@
 💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🧑‍💻
 
 ### 🖱️ About Me 🖲️ 
-- 💻👨‍🎓 **Computer Science Grad** ✨ With a delta (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🏆
+- 💻👨‍🎓 **Computer Science Grad** ✨ With a (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🏆
 - 🎓 **Harvard CS50** *(Introduction to Computer Science, 2023)*  
 - 🔭 Re-ignited my coding passion with my university project 2024 **Soko-Digi** — a retail store with **Ecommerce + M-PESA Checkout** 
 - 🔥 Passionate code alchemist turning ideas into **software magic** ✨  
 - 💡 Forever curious, always learning, and building fun, mind-bending projects  
 - 🌱 Leveling up daily with **JavaScript • React • Python • PHP • MySQL • System Design** 📈  
-- 👯 Always looking to team up and **collaborate on open source adventures** 🌍  
-- ⚡ Fun fact: *I debug like a DJ — mixing coffee ☕, music 🎧, and a sprinkle of controlled chaos* 🎶💻  
 - 🎯 Motto: *Ship code like a ninja, learn like a monk, and enjoy the ride!* 🥷🧘‍♂️✨
 
 ---
 
 ### 🎯 My Dev Vibes
-- 🚀 Turning caffeine and chai tea ☕ into clean, battle-ready code  
-- 🎧 Debugging sessions = powered by epic playlists  
-- 🛠️ Always hacking on side-projects & leveling up skills  
-- ⚡ Deploying features like a digital superhero 🦸‍♂️  
-- 🧩 Solving bugs is my cardio — brain gains all day 🧠💪  
-- 🌌 Dreaming in algorithms and sipping chai tea under the stars  
+- 🔺 Triangles are my favorite shape
 
 ---
 
