@@ -1,4 +1,4 @@
-<h1 align="center">🎭 Alakazam! ✨ Hi 👋, I'm Kayabinghi, a troglodyte✨ — 🙉 🙊 🙈 </h1>
+<h1 align="center">🎭 Alakazam! ✨ Hi 👋, I'm Kayabinghi✨ — 🙉 🙊 🙈 </h1>
 
 <!-- Visitor Counter -->
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-💻 I love crafting projects that blend **tech + creativity** to solve real problems. 🧑‍💻
+💻 A troglodyte that loves crafting projects that blend **tech + creativity** to solve real problems. 🧑‍💻
 
 ### 🖱️ About Me 🖲️ 
 - 💻👨‍🎓 **Computer Science Grad** ✨ With a (Δ) twist → **Business** 💼 + **Tech Integration** 🔗🏆
