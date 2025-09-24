@@ -1,4 +1,4 @@
-<h1 align="center">🎭 Alakazam! ✨ Hi 👋, I'm Kayabinghi ✨ — 🙉 🙊 🙈 </h1>
+<h1 align="center">🎭 Alakazam! ✨ Hi 👋, I'm Kayabinghi, a troglodyte✨ — 🙉 🙊 🙈 </h1>
 
 <!-- Visitor Counter -->
 <p align="center">
